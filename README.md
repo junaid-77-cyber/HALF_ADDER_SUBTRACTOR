@@ -69,7 +69,8 @@ Figure -02 HALF Subtractor
 
 # TIMING Waveform
 
-![Screenshot 2024-12-01 131813](https://github.com/user-attachments/assets/4be16246-228c-4e22-b0b9-9e8b5589513f)
+![Screenshot 2024-12-12 111951](https://github.com/user-attachments/assets/861eac28-d4c6-426a-ad51-5cf3e9a15fec)
+
 
 # Result:
 Designed and verified the halfadder and half subtractor circuit and its truth table using verilog programming 
