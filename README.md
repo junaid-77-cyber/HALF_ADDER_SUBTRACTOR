@@ -1,8 +1,6 @@
 # NAME: JUNAID SARDAR S
 # REG NO.24003934
-# EXP NO.3 HALF_ADDER_SUBTRACTOR
-
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+# EXP NO.3 Implementation of Half Adder and Half Subtractor circuit
 
 # AIM:
 
